@@ -53,7 +53,6 @@ El objetivo general de este proyecto es construir un bastón inteligente el cual
 |----|------------|-------------|--------|----------|-------------|
 |  01  |Jumpers|Un jumper o saltador es un elemento que permite cerrar el circuito eléctrico del que forma parte dos conexiones.|![Uploading image.png…](https://http2.mlstatic.com/D_NQ_NP_648190-MLM49852695986_052022-O.jpg)|40|$50|
 |  02  |Micro USB|Es un cable de carga y transferencia de datos que tiene un conector pequeño y reversible en ambos extremos.|<img width="362" alt="usb " src="https://user-images.githubusercontent.com/123588416/232867677-7ffe46e8-a1fe-48a4-bfe2-76e51786cbc0.png">
-|1|$45|
 
 ## Epicas del proyecto
 - En muchas ocasiones las personas tienden a ser solidarias con quienes no pueden ver, sin embargo, hay algunas excepciones tristemente, el bastón inteligente trata de ayudar de manera completa a la persona invidente, poniendo como prioridad su seguridad en todo momento, haciendo que el usuario se sienta más tranquilo al caminar.
